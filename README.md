@@ -1,1 +1,1 @@
-LinguaSync: # Real-Time-Voice-Translator
+# Real-Time-Voice-Translator
